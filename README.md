@@ -42,29 +42,29 @@
             <p>
               <ol>
                 <li>Emotional Resilience – Stoicism teaches you to control your reactions to external events. 
-                By focusing on what you can control (your thoughts, actions, and attitudes) and accepting what you can't, you build mental toughness.</li><br>
+                By focusing on what you can control (your thoughts, actions, and attitudes) and accepting what you can't, you build mental toughness.</li>
 
                 <li>Freedom from Suffering – Many struggles come from wanting reality to be different than it is.
-                Stoicism helps you accept reality and adapt, reducing unnecessary suffering.</li><br>
+                Stoicism helps you accept reality and adapt, reducing unnecessary suffering.</li>
 
                 <li>Focus on Virtue – Unlike material success, Stoicism emphasizes virtue (wisdom, courage, justice, and temperance) 
-                as the highest good, leading to a meaningful and fulfilling life.</li><br>
+                as the highest good, leading to a meaningful and fulfilling life.</li>
 
                 <li>Improved Decision-Making – By practicing rational thinking and emotional discipline,
-                 you make better decisions based on reason rather than impulse or fear.</li><br>
+                 you make better decisions based on reason rather than impulse or fear.</li>
 
                 <li>Handling Adversity – Life is unpredictable, but Stoicism equips you with the mindset to handle misfortune, 
-                loss, and setbacks with dignity and strength.</li><br>
+                loss, and setbacks with dignity and strength.</li>
                 
                 <li>Living in the Present – Stoics emphasize mindfulness, encouraging you to focus on the present moment 
-                rather than being consumed by regrets or worries about the future.</li><br>
+                rather than being consumed by regrets or worries about the future.</li>
               
                 <li>Better Relationships – By cultivating patience, understanding, and detachment from ego, 
-                Stoicism helps improve your relationships and avoid unnecessary conflicts.</li><br>
+                Stoicism helps improve your relationships and avoid unnecessary conflicts.</li>
 
                 
                 <li>Antidote to Modern Anxiety – In a world filled with distractions, social pressures, and uncertainty,
-                 Stoicism provides clarity and peace by helping you focus on what truly matters.</li><br>
+                 Stoicism provides clarity and peace by helping you focus on what truly matters.</li>
 
               </ol>
             </p>
